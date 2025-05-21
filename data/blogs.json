@@ -82,5 +82,142 @@
     "id": "c9476581-c325-460c-96a9-327c7a062994",
     "createdAt": "2025-05-21T17:54:58.106Z",
     "updatedAt": "2025-05-21T17:54:58.106Z"
+  },
+  {
+    "slug": "jajajsas-kjsaasjas",
+    "title": "jajajsas kjsaasjas",
+    "author": "Admin",
+    "date": "2025-05-21",
+    "tags": [
+      "health"
+    ],
+    "coverImage": "https://res.cloudinary.com/dpwglhp5u/image/upload/v1747848858/Thanks_For_listening_2_nvljcx.png",
+    "excerpt": "sdljhajhdakjhsda ahsd ahdajhdadadhahd ",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Open source contributions have transformed how developers learn and build projects."
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's why it matters:"
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "* Build real-world experience by working on production-level code."
+      },
+      {
+        "type": "paragraph",
+        "text": "* Improve your resume and portfolio with visible contributions."
+      },
+      {
+        "type": "paragraph",
+        "text": "* Gain recognition in developer communities."
+      },
+      {
+        "type": "paragraph",
+        "text": "* Learn from better code and real-time feedback."
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "Check out the official [GitHub Docs](https://docs.github.com) to get started with your first contribution."
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's an inspirational image:"
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg"
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "More reasons to try open source:"
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "* It helps you grow your network and meet mentors."
+      },
+      {
+        "type": "paragraph",
+        "text": "* You can work on projects you're passionate about."
+      },
+      {
+        "type": "paragraph",
+        "text": "* Many companies hire based on open source activity."
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "Find beginner-friendly issues here:"
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "",
+        "link": {
+          "text": "First Contributions",
+          "href": "https://firstcontributions.github.io"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg"
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "text": "Start small. Stay consistent. Happy coding!"
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ],
+    "isPublished": true,
+    "id": "36fda5da-85c0-440a-8de6-205022d00b4e",
+    "createdAt": "2025-05-21T18:02:33.186Z",
+    "updatedAt": "2025-05-21T18:02:33.186Z"
   }
 ]
